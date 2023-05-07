@@ -1,3 +1,7 @@
+# Getting Started with this Repository
+
+Create a .env file with variable REACT_APP_GITHUB_API_TOKEN to run this project. You can refer to this link : https://docs.github.com/en/rest?apiVersion=2022-11-28
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
